@@ -1,10 +1,11 @@
-### Olá, sou o Marcos
+### Quem sou
 
-Estudante de Análise e Desenvolvimento de Sistemas (FASF, conclusão em 12/2027), com foco em **segurança da informação**, especialmente **SOC N1**.
+Estudante de ADS que está construindo uma base em segurança da informação, com foco em SOC N1. Aprendo na prática: monto laboratórios, simulo ataques em ambiente isolado e documento o que detecto.
 
-**Agora:** laboratório de detecção de bots em aplicação web (Ubuntu Server, Nginx, Elastic/Kibana) e preparação para a CompTIA Security+ (SY0-701), prova prevista para o 1º trimestre de 2027.
-
-**Certificações e cursos:** Google Cybersecurity Professional Certificate (10/2026) · Hackers do Bem e SENAI SP, Nivelamento e Formação Básica em Cibersegurança (04/2026).
+- ADS na FASF, conclusão prevista em 12/2027;
+- Google Cybersecurity Professional Certificate e Hackers do Bem / SENAI SP;
+- [Mini-SOC com Wazuh](https://github.com/marcos-lamounier/lab-wazuh-brute-force), com MITRE ATT&CK, relatório de incidente e playbook;
+- Em preparação: CompTIA Security+ (SY0-701).
 
 **Ferramentas:** Wazuh, Kali Linux, Hydra, Suricata, tcpdump, Linux (Debian e Ubuntu), Python, SQL, Git e GitHub. Rust em estudo.
 
