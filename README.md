@@ -9,4 +9,4 @@ Estudante de ADS que está construindo uma base em segurança da informação, c
 
 **Ferramentas:** Wazuh, Kali Linux, Hydra, Suricata, tcpdump, Linux (Debian e Ubuntu), Python, SQL, Git e GitHub. Rust em estudo.
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/marcos-henrique-lamounier-b1421936b) · marcoshenriquelamounier@gmail.com
+**Contato:** [LinkedIn](https://www.linkedin.com/in/marcos-henrique-lamounier-b1421936b)
